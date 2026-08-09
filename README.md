@@ -8,9 +8,9 @@ of Lake Malawi cichlid fishes. Notably, we identified at least one inversion tha
 facilitates XY male-sex determination in a species of deep benthic cichlid. 
 
 ## Doctoral Publication
-- Kumar et al. (2025), *eLife* — [https://elifesciences.org/reviewed-preprints/104923] [https://doi.org/10.7554/eLife.104923.2]
+- Kumar et al. (2025), *eLife* — [Large inversions in Lake Malawi cichlids are associated with habitat preference, lineage, and sex determination](https://elifesciences.org/reviewed-preprints/104923) [DOI](https://doi.org/10.7554/eLife.104923.2)
 
-## Past and Ongoing Projects
+## Projects
 
 - **Genomics pipelines:** variant calling (GATK), QTL and backcross mapping,
   population structure, de novo assembly (PacBio HiFi + Bionano scaffolding)

@@ -1,18 +1,30 @@
 ## Hi, I'm Nikesh 👋
 
-**Bioinformatics PhD Candidate** | Georgia Institute of Technology
+**Postdoctoral Researcher** | McGrath Lab, School of Biological Sciences, Georgia Institute of Technology
 
-I develop computational pipelines for evolutionary genomics, specializing in variant calling, QTL mapping, and population genetics analyses.
+I study evolution, combining population genomics with wet lab molecular biology.
+My PhD work identified that large chromosome inversions segregate across lineages
+of Lake Malawi cichlid fishes. Notably, we identified at least one inversion that
+facilitates XY male-sex determination in a species of deep benthic cichlid. 
 
-### What I Do
-- **Current Research:** Mapping a sex determination locus in a deep benthic species of Lake Malawi cichlid using QTL approaches
-- **Technical Focus:** Building reproducible genomic pipelines with Python, R, and command-line tools
-- **Learning:** Nextflow pipeline development for easy-to-use bioinformatics analyses
+## Doctoral Publication
+- Kumar et al. (2025), *eLife* — [https://elifesciences.org/reviewed-preprints/104923] [https://doi.org/10.7554/eLife.104923.2]
 
-### Skills
-`Python` `R` `Bash` `GATK` `BWA` `Population Genetics` `QTL Mapping` `Variant Calling`
-`GATK` `plink2` `bcftools` `vcftools` `samtools` `Hifiasm` `Inspector` `BWA` `minimap2` `Bionano Access` `r/QTL` `rclone`  
+## Past and Ongoing Projects
 
-📫 Reach me: 
-- nkumar317@gatech.edu 
-- [LinkedIn](https://www.linkedin.com/in/nikesh-kumar-170972282)
+- **Genomics pipelines:** variant calling (GATK), QTL and backcross mapping,
+  population structure, de novo assembly (PacBio HiFi + Bionano scaffolding)
+- **Wet lab:** HMW DNA extraction, Tn5 library prep at scale (>270 samples),
+  HCR-FISH, optical genome mapping protocol development, CRISPR
+- **Currently:** dual-guide CRISPR deletion of a candidate lncRNA driving male
+  sex determination; near-isogenic line breeding program
+
+## Stack
+
+Python · R · Bash · Nextflow · GATK · BWA/minimap2 · samtools/bcftools/vcftools ·
+plink2 · hifiasm · R/qtl2 · Bionano Access  
+
+## 📫 Reach me: 
+
+nkumar317@gatech.edu · [ORCID](https://orcid.org/0000-0003-1932-3910) ·
+[LinkedIn](https://www.linkedin.com/in/nikesh-kumar-170972282)
